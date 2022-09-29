@@ -7,4 +7,4 @@ I'm David Mear - I blog about all things IT. When I come across an issue, I fix 
 - 📫 How to reach me: ... You can reach me at david@mearkats.co.uk
 - ⚡ Fun fact: ... When I was 6 years old, I literally blew up my first computer. That was when I knew I wanted to go into IT.
 - 😁 Projects I'm proud of: ...
-  * My {Microsoft Store App Install PowerShell script](https://github.com/mearkats/MS-Store-App-Install-Powershell-RMM-Friendly) which allows you to install Microsoft Store Apps from an RMM! How cool is that!!
+  * My [Microsoft Store App Install PowerShell script](https://github.com/mearkats/MS-Store-App-Install-Powershell-RMM-Friendly) which allows you to install Microsoft Store Apps from an RMM! How cool is that!!
